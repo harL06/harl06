@@ -1,5 +1,4 @@
-# Harry Leddy
-### harL06
+# Harry Leddy `harl06`
 
 Computer & Electronic Engineering student at Trinity College Dublin, interested in hardware-facing software, digital systems, FPGAs, and applied AI/automation.
 
